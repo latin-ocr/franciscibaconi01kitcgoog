@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./franciscibaconi01kitcgoog_0009.png"; bbox 0 0 3078 5180; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 477 1310 844 1380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 477 1310 844 1380">
+     <span class='ocr_line' id='line_1_1' title="bbox 477 1310 844 1380; baseline -0.041 1"><span class='ocrx_word' id='word_1_1' title='bbox 477 1321 574 1380; x_wconf 83' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 594 1315 703 1373; x_wconf 85' lang='lat' dir='ltr'><strong>NEW</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 719 1310 844 1370; x_wconf 78' lang='lat' dir='ltr'>YORK</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 512 1659 816 1776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 512 1659 816 1776">
+     <span class='ocr_line' id='line_1_2' title="bbox 525 1659 800 1713; baseline -0.04 -2"><span class='ocrx_word' id='word_1_4' title='bbox 525 1670 619 1713; x_wconf 66' lang='lat' dir='ltr'><strong>mon,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 640 1663 727 1706; x_wconf 71' lang='grc' dir='ltr'>[ΕΝΟΧ</span> <span class='ocrx_word' id='word_1_6' title='bbox 747 1659 800 1701; x_wconf 69' lang='lat' dir='ltr'><strong>mu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 512 1727 816 1776; baseline -0.023 -1"><span class='ocrx_word' id='word_1_7' title='bbox 512 1737 607 1776; x_wconf 64' lang='lat' dir='ltr'>TstOEN</span> <span class='ocrx_word' id='word_1_8' title='bbox 624 1727 816 1772; x_wconf 63' lang='lat' dir='ltr'><strong>founomons.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1544 5180">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1544 5180">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1544 5180; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1544 5180; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
